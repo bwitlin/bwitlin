@@ -45,8 +45,10 @@ Most "Claude templates" tell the model *what* to do. This repo fixes how it *thi
 
 ---
 
-### 🧰 Break My Logic
-This space is evolving on an hourly basis. My assumptions and way of solving things may be wrong OR they may be right. I encourage you to be direct and honest. Tell me when you believe there is a better solution. Excited to add value and conversation to this amazing and boundless new world we are in. If you need any clarification on any of the above, I will respond to requests, etc.  
+### 💬 Break My Logic
+
+This space changes hourly. My assumptions may be wrong -- or they may be exactly right. Either way, I'd rather hear "you're doing this wrong, and here's why" than silence. Even better if you bring data. Open an issue, start a discussion, or just tell me directly.
+
 ---
 
 ### 🔗 Find me
